@@ -1,4 +1,4 @@
-/* In many cases, dividing two numbers can contain an excessive number of decimal places. In this problem, your task is to compute the division of two floating-point numbers and format the result to a specific precision.
+ /* In many cases, dividing two numbers can contain an excessive number of decimal places. In this problem, your task is to compute the division of two floating-point numbers and format the result to a specific precision.
 You are given two floating-point numbers a and b. Your task is to:
 
 Output the exact result of a / b.
